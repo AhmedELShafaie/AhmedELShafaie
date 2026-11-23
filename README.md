@@ -33,10 +33,7 @@ I bridge software delivery and enterprise-grade infrastructure using the **Hashi
 
 ## 🏅 Certifications
 
-- HashiCorp Certified: **Terraform Associate (003)**
-- HashiCorp Certified: **Vault Associate**
 - **Certified Kubernetes Administrator (CKA)** – CNCF / Linux Foundation
-- **AWS Solutions Architect** – Associate / Professional
 
 ## 🚀 Featured work
 
